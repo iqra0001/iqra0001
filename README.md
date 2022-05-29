@@ -1,5 +1,5 @@
 
-# Hi, I'm Iqra Zaheer! 👋
+# Hi, I'm Iqra Zaheer! 👋🤍
 
 ### I'm a Bioinformatics student, an aspiring front-end developer and a passionate learner!!
 
@@ -8,26 +8,24 @@
 - 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer
 - ⚡ Fun fact: I love to read novels and write stories
 
-### 🔗 Connect with me:
+### Connect with me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-e6e6e6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/iqraaa0001/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/iqraaa0001/#gh-dark-mode-only)
 
-[![instagram](https://img.shields.io/badge/instagram-e6e6e6?style=for-the-badge&logo=instagram&logoColor=black)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/)
+### Languages Resources and Tools:
 
-### 🛠 Languages Resources and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-![HTML5](https://img.shields.io/badge/html5-e6e6e6?style=for-the-badge&logo=html5&logoColor=black)
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
-![CSS3](https://img.shields.io/badge/css3-e6e6e6?style=for-the-badge&logo=css3&logoColor=black)
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-![Bootstrap5](https://img.shields.io/badge/bootstrap5-e6e6e6?style=for-the-badge&logo=bootstrap&logoColor=black)
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-![JavaScript](https://img.shields.io/badge/javascript-e6e6e6?style=for-the-badge&logo=javascript&logoColor=black)
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-![VS Code](https://img.shields.io/badge/vscode-e6e6e6?style=for-the-badge&logo=visualstudiocode&logoColor=black) 
-
-![Git](https://img.shields.io/badge/git-e6e6e6?style=for-the-badge&logo=git&logoColor=black)
-
-![GitHub](https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black)
-
-![CodePen](https://img.shields.io/badge/codepen-e6e6e6?style=for-the-badge&logo=codepen&logoColor=black)
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
