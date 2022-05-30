@@ -3,8 +3,9 @@
 
 ### I'm a Bioinformatics student, an aspiring front-end developer and a passionate learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👩‍💻 I’m working on some mini front-end projects for newbies to practice my skills
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate with fellow developers
 - 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer
 - ⚡ Fun fact: I love to read novels and write stories
 
